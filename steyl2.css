@@ -1,0 +1,247 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 130px;
+    background-color: rgba(48, 48, 48, 0.705);
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    width: 3000px;
+    height: 130px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.input {
+    font-size: 100px;
+    border: none;
+}
+
+.bo {
+    width: 100%;
+    height: 5000px;
+    background-color: rgba(48, 48, 48, 0.705);
+}
+
+.boc {
+    width: 100%;
+    height: 2500px;
+
+}
+
+.no {
+    color: white;
+    font-size: 150px;
+    margin-top: -2400px;
+    margin-left: 200px;
+}
+
+#h1 {
+    font-size: 100px;
+    margin-top: -2000px;
+}
+
+.h1 {
+    margin-top: -2500px;
+    margin-left: 2700px;
+    color: white;
+    border: none;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.lol {
+    color: rgb(238, 255, 0);
+    font-size: 70px;
+    margin-top: 700px;
+    margin-left: 300px;
+}
+
+.joj {
+    font-size: 200px;
+    color: white;
+    margin-left: 300px;
+}
+
+.pop {
+    font-size: 50px;
+    border: solid 10px yellowgreen;
+    color: yellowgreen;
+    width: 400px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: 600px;
+}
+
+.dod {
+    color: white;
+    background-color: yellowgreen;
+    font-size: 50px;
+    width: 230px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: -700px;
+}
+
+.gog {
+    width: 1200px;
+    height: 1400px;
+    margin-top: 1700px;
+    margin-left: 500px;
+}
+
+.h2 {
+    color: yellow;
+    font-size: 40px;
+    margin-left: 2500px;
+    margin-top: 300px;
+}
+
+.h3 {
+    font-size: 70px;
+    margin-left: 2500px;
+    margin-top: 50px;
+}
+
+.h4 {
+    color: rgba(160, 160, 160, 0.479);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    width: 710px;
+    height: 300px;
+    margin-left: 2500px;
+    margin-top: 50px;
+}
+
+.h5 {
+    font-size: 30px;
+    line-height: 100px;
+    margin-left: 2500px;
+    margin-top: 200px;
+}
+
+.class {
+    color: white;
+    font-size: 150px;
+    margin-top: -2000px;
+    margin-left: 300px;
+    background-color: yellowgreen;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div {
+    color: white;
+    font-size: 150px;
+    margin-left: 1500px;
+    margin-top: -220px;
+    background-color: yellowgreen;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mixes {
+    font-size: 50px;
+    color: white;
+    margin-left: 700px;
+    margin-top: -300px;
+}
+
+.moon {
+    color: rgb(134, 134, 2);
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.g1 {
+    font-size: 100px;
+}
+
+.salc {
+    font-size: 50px;
+    color: white;
+    margin-left: 1900px;
+    margin-top: -300px;
+}
+
+.vid {
+    color: rgb(134, 134, 2);
+    font-size: 30px;
+    margin-left: 1900px;
+}
+
+.h7 {
+    color: white;
+    font-size: 150px;
+    background-color: yellowgreen;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 2800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -170px;
+}
+
+.h8 {
+    color: white;
+    font-size: 50px;
+    margin-left: 3200px;
+    margin-top: -320px;
+}
+
+.h9 {
+    color: rgb(134, 134, 2);
+    font-size: 30px;
+    margin-left: 3200px;
+}
+
+.h10 {
+    background-color: yellowgreen;
+    font-size: 150px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 3800px;
+    margin-top: -160px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h11 {
+    font-size: 50px;
+    color: white;
+    margin-left: 4200px;
+    margin-top: -300px;
+}
+
+.h12 {
+    font-size: 30px;
+    color: rgb(134, 134, 2);
+    margin-left: 4200px;
+}
